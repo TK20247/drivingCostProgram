@@ -2,7 +2,7 @@ Function DrivingCost(float drivenMiles, float milesPerGallon, float dollarsPerGa
    costMiles = drivenMiles * (1.0 / milesPerGallon) * dollarsPerGallon
 
 Function Main() returns nothing
-   flort milesPerGallon
+   float milesPerGallon
    float dollarsPerGallon
 
    milesPerGallon = Git next input
